@@ -1,8 +1,3 @@
-let numbers = [3,17,94,11,45,76,22,2,77,32,87]
-numberLength = numbers.length
-console.log('There are ' +  numberLength +  ' numbers in the array.')
-
-
 let pets = ["Darcy", "Jack", "Jerry", "Marty", "Vito", "Vinny", "Riley", "Saddie", "Marge", "Sam"]
 
 /*
